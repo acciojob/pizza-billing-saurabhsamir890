@@ -80,7 +80,7 @@ public class Pizza {
                 bill = bill + "Paperbag Added: " + this.papaerbagPrice + "\n";
             }
 
-            bill = bill + "Total Price: " + price; // remember bill is string
+            bill = bill + "Total Price: " + price+"\n"; // remember bill is string
 
             isbillgenerated=true;
 
