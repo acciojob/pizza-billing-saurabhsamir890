@@ -26,7 +26,7 @@ public class Pizza {
         }
         this.cheesePrice=80;
         this.papaerbagPrice=20;
-        this.bill="Base Price of The Pizza: "+this.price+"\n";
+        this.bill="Base Price Of The Pizza: "+this.price+"\n";
 
     }
 
